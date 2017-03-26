@@ -46,3 +46,39 @@ c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.API.Tes
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Models.pdb
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Models.dll.config
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.API.Tests\bin\Debug\EntityFramework.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\obj\Debug\BookStore.API.Tests.csprojResolveAssemblyReference.cache
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\obj\Debug\BookStore.API.Tests.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\obj\Debug\BookStore.API.Tests.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.API.Tests.dll.config
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.API.Tests.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.API.Tests.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.API.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Models.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Service.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Castle.Core.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\EntityFramework.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Moq.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\nunit.framework.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Web.Http.Tracing.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.API.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.API.dll.config
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Models.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Models.dll.config
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Service.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\BookStore.Service.dll.config
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Castle.Core.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\EntityFramework.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Moq.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\nunit.framework.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Web.Http.Tracing.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.API.Tests\bin\Debug\System.Web.Http.WebHost.xml

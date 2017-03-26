@@ -3,3 +3,8 @@ c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\bin
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.csprojResolveAssemblyReference.cache
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.dll
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\bin\Debug\BookStore.DTO.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\bin\Debug\BookStore.DTO.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.csprojResolveAssemblyReference.cache
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.pdb
