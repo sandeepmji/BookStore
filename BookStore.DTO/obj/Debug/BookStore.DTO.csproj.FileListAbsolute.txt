@@ -1,0 +1,5 @@
+c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\bin\Debug\BookStore.DTO.dll
+c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\bin\Debug\BookStore.DTO.pdb
+c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.csprojResolveAssemblyReference.cache
+c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.dll
+c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.pdb
