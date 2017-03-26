@@ -8,12 +8,13 @@ using System.Threading.Tasks;
 
 namespace BookStore.Service
 {
-    public class BookService: IDisposable
+    public class BookService : IDisposable, IBookService
     {
         private IBookStoreDataContext _bookStoreDataContext;
         
         public BookService()
         {
+            _bookStoreDataContext = new BookStoreDataContext();
                 
         }
 
@@ -33,18 +34,18 @@ namespace BookStore.Service
             return book;
         }
 
-        public int PutBook(int id, Book book)
+        public int UpdateBook(int id, Book book)
         {
             if (id != book.BookId)
             {
                 return 1;
             }
 
-            _bookStoreDataContext.MarkAsModified<Book>();
+            _bookStoreDataContext.MarkAsModified<Book>(book);
 
             try
             {
-                _bookStoreDataContext.SaveChangesAsync();
+                _bookStoreDataContext.SaveChanges();
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -54,31 +55,31 @@ namespace BookStore.Service
                 }
                 else
                 {
-                    return 3;
+                    throw;
                 }
             }
 
             return 0;
         }
 
-        public int PostBook(Book book)
+        public int AddBook(Book book)
         {
             _bookStoreDataContext.Books.Add(book);
-            _bookStoreDataContext.SaveChangesAsync();
+            _bookStoreDataContext.SaveChanges();
 
             return book.BookId;
         }
 
-        public int DeleteBook(int id)
+        public Book DeleteBook(int id)
         {
-            Book book = _bookStoreDataContext.Books.FindAsync(id);
+            Book book = _bookStoreDataContext.Books.Find(id);
             if (book == null)
             {
-                return 1;
+                return null;
             }
 
             _bookStoreDataContext.Books.Remove(book);
-            _bookStoreDataContext.SaveChangesAsync();
+            _bookStoreDataContext.SaveChanges();
 
             return book;
         }
@@ -87,18 +88,10 @@ namespace BookStore.Service
         {
             return _bookStoreDataContext.Books.Count(e => e.BookId == id) > 0;
         }
-
-        public void Dispose(bool disposing)
-        {
-            if (disposing)
-            {
-                _bookStoreDataContext.Dispose();
-            }
-        }
-
+        
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _bookStoreDataContext.Dispose();
         }
     }
 }

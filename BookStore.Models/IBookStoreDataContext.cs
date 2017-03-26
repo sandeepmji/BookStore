@@ -7,7 +7,7 @@ namespace BookStore.Models
     {
         DbSet<Author> Authors { get; set; }
         DbSet<Book> Books { get; set; }
-        Task<int> SaveChangesAsync();
+        int SaveChanges();
 
         void MarkAsModified<T>(T Item) where T:class;
         void Dispose();

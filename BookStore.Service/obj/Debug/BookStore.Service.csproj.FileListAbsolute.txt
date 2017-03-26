@@ -2,3 +2,16 @@ c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.Service
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.Service\bin\Debug\BookStore.Service.pdb
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.Service\obj\Debug\BookStore.Service.dll
 c:\users\sande\documents\visual studio 2017\Projects\BookStore\BookStore.Service\obj\Debug\BookStore.Service.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\BookStore.Service.dll.config
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\BookStore.Service.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\BookStore.Service.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\BookStore.Models.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\EntityFramework.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\BookStore.Models.pdb
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\BookStore.Models.dll.config
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\EntityFramework.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\obj\Debug\BookStore.Service.csprojResolveAssemblyReference.cache
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\obj\Debug\BookStore.Service.dll
+C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.Service\obj\Debug\BookStore.Service.pdb
