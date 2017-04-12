@@ -8,3 +8,8 @@ C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\bin\Debug\BookStore.D
 C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.csprojResolveAssemblyReference.cache
 C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.dll
 C:\Users\SandeepM\Documents\GitHub\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.pdb
+C:\Users\sande\Documents\Projects\BookStore\BookStore.DTO\bin\Debug\BookStore.DTO.dll
+C:\Users\sande\Documents\Projects\BookStore\BookStore.DTO\bin\Debug\BookStore.DTO.pdb
+C:\Users\sande\Documents\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.csprojResolveAssemblyReference.cache
+C:\Users\sande\Documents\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.dll
+C:\Users\sande\Documents\Projects\BookStore\BookStore.DTO\obj\Debug\BookStore.DTO.pdb

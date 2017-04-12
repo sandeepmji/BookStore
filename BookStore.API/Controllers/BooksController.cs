@@ -29,15 +29,15 @@ namespace BookStore.API.Controllers
 
         // GET: api/Books/5
         [ResponseType(typeof(Book))]
-        public async Task<IHttpActionResult> GetBook(int id)
+        public Book GetBook(int id)
         {
             Book book = _bookService.GetBook(id);
             if (book == null)
             {
-                return NotFound();
+                return null;
             }
 
-            return Ok(book);
+            return book;
         }
 
         // PUT: api/Books/5
